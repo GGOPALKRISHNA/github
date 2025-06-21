@@ -7,3 +7,7 @@ const dob = '01/01/2025';
 function myname() {
     console.log('mY name is'+ name)
 }
+
+function isAbove18(age) {
+    return age > 18;
+}
